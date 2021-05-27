@@ -48,7 +48,6 @@ divTodoList.addEventListener('click', ( event ) => {
         todoList.eliminarTodo( todoId );
         divTodoList.removeChild( todoElemento );
     }
-    console.log( todoList );
 });
 
 btnBorrar.addEventListener('click', () => {
