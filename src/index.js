@@ -6,5 +6,3 @@ export const todoList = new TodoList();
 /* const tarea = new Todo('Aprender javascript');
 todoList.nuevoTodo( tarea );
 crearTodoHtml( tarea ); */
-todoList.todos[0].impirmirClase();
-console.log( todoList );
